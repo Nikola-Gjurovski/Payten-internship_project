@@ -1,0 +1,556 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|c:\\users\\nikola\\desktop\\public rep\\payten_internship_project\\webapplication\\webapplication6\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|c:\\users\\nikola\\desktop\\public rep\\payten_internship_project\\webapplication\\webapplication6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|c:\\users\\nikola\\desktop\\public rep\\payten_internship_project\\webapplication\\webapplication6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|c:\\users\\nikola\\desktop\\public rep\\payten_internship_project\\webapplication\\webapplication6\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|c:\\users\\nikola\\desktop\\public rep\\payten_internship_project\\webapplication\\webapplication6\\controllers\\projectemailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\projectemailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|c:\\users\\nikola\\desktop\\public rep\\payten_internship_project\\webapplication\\webapplication6\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|c:\\users\\nikola\\desktop\\public rep\\payten_internship_project\\webapplication\\webapplication6\\models\\projectemailrecepient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\projectemailrecepient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|c:\\users\\nikola\\desktop\\public rep\\payten_internship_project\\webapplication\\webapplication6\\models\\emailrecepient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\emailrecepient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|c:\\users\\nikola\\desktop\\public rep\\payten_internship_project\\webapplication\\webapplication6\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\New folder\\my-app\\src\\Home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|c:\\users\\nikola\\desktop\\public rep\\payten_internship_project\\webapplication\\webapplication6\\controllers\\emailrecepientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\emailrecepientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|c:\\users\\nikola\\desktop\\public rep\\payten_internship_project\\webapplication\\webapplication6\\controllers\\versioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\versioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|c:\\users\\nikola\\desktop\\public rep\\payten_internship_project\\webapplication\\webapplication6\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|c:\\users\\nikola\\desktop\\public rep\\payten_internship_project\\webapplication\\webapplication6\\models\\versionp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\versionp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\New folder\\Asseco\\my-app\\src\\Version.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Asseco\\my-app\\src\\Version.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\New folder\\Asseco\\my-app\\src\\Project.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|c:\\users\\nikola\\desktop\\public rep\\payten_internship_project\\webapplication\\webapplication6\\migrations\\20240401090733_version_datum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\migrations\\20240401090733_version_datum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|c:\\users\\nikola\\desktop\\public rep\\payten_internship_project\\webapplication\\webapplication6\\migrations\\20240329132031_version_type2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\migrations\\20240329132031_version_type2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|c:\\users\\nikola\\desktop\\public rep\\payten_internship_project\\webapplication\\webapplication6\\webapplication6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\webapplication6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|c:\\users\\nikola\\desktop\\public rep\\payten_internship_project\\webapplication\\webapplication6\\migrations\\20240327114014_versionp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\migrations\\20240327114014_versionp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|c:\\users\\nikola\\desktop\\public rep\\payten_internship_project\\webapplication\\webapplication6\\migrations\\20240327102132_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\migrations\\20240327102132_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|c:\\users\\nikola\\desktop\\public rep\\payten_internship_project\\webapplication\\webapplication6\\migrations\\20240327102344_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\migrations\\20240327102344_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|c:\\users\\nikola\\desktop\\public rep\\payten_internship_project\\webapplication\\webapplication6\\migrations\\20240329131309_version_type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\migrations\\20240329131309_version_type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|c:\\users\\nikola\\desktop\\public rep\\payten_internship_project\\webapplication\\webapplication6\\migrations\\20240329101355_active.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\migrations\\20240329101355_active.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|c:\\users\\nikola\\desktop\\public rep\\payten_internship_project\\webapplication\\webapplication6\\migrations\\20240401072442_versionid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\migrations\\20240401072442_versionid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|c:\\users\\nikola\\desktop\\public rep\\payten_internship_project\\webapplication\\webapplication6\\migrations\\20240401082407_datetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\migrations\\20240401082407_datetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|c:\\users\\nikola\\desktop\\public rep\\payten_internship_project\\webapplication\\webapplication6\\migrations\\20240402090952_init_laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\migrations\\20240402090952_init_laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|c:\\users\\nikola\\desktop\\public rep\\payten_internship_project\\webapplication\\webapplication6\\migrations\\20240402111302_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\migrations\\20240402111302_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|c:\\users\\nikola\\desktop\\public rep\\payten_internship_project\\webapplication\\webapplication6\\migrations\\20240403112304_project_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\migrations\\20240403112304_project_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|c:\\users\\nikola\\desktop\\public rep\\payten_internship_project\\webapplication\\webapplication6\\migrations\\20240403113553_user_for_project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\migrations\\20240403113553_user_for_project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|c:\\users\\nikola\\desktop\\public rep\\payten_internship_project\\webapplication\\webapplication6\\migrations\\20240411080513_email_recepients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD629FC-07B5-49F1-908B-3DF37BE3E19F}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\migrations\\20240411080513_email_recepients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\.gitignore",
+              "RelativeDocumentMoniker": "WebApplication6\\.gitignore",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\.gitignore",
+              "RelativeToolTip": "WebApplication6\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-04-13T23:13:45.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240411080513_email_recepients.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Migrations\\20240411080513_email_recepients.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Migrations\\20240411080513_email_recepients.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Migrations\\20240411080513_email_recepients.cs",
+              "RelativeToolTip": "WebApplication6\\Migrations\\20240411080513_email_recepients.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T08:05:13.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Models\\Project.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:19:22.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectEmailRecepient.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Models\\ProjectEmailRecepient.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\ProjectEmailRecepient.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Models\\ProjectEmailRecepient.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\ProjectEmailRecepient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:04:28.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\ProjectController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:24:37.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Program.cs",
+              "RelativeToolTip": "WebApplication6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:13:29.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication6\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\appsettings.json",
+              "RelativeToolTip": "WebApplication6\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-27T10:11:49.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailRecepient.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Models\\EmailRecepient.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\EmailRecepient.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Models\\EmailRecepient.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\EmailRecepient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:04:46.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T07:54:27.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectEmailController.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Controllers\\ProjectEmailController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\ProjectEmailController.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Controllers\\ProjectEmailController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\ProjectEmailController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAuwEwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:06:48.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240403112304_project_user.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Migrations\\20240403112304_project_user.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Migrations\\20240403112304_project_user.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Migrations\\20240403112304_project_user.cs",
+              "RelativeToolTip": "WebApplication6\\Migrations\\20240403112304_project_user.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:23:05.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplication6\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:15:35.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VersionController.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Controllers\\VersionController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\VersionController.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Controllers\\VersionController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\VersionController.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAAAIEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T11:41:12.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Home.js",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\New folder\\my-app\\src\\Home.js",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\User\\Desktop\\New folder\\my-app\\src\\Home.js",
+              "ToolTip": "C:\\Users\\User\\Desktop\\New folder\\my-app\\src\\Home.js",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\User\\Desktop\\New folder\\my-app\\src\\Home.js",
+              "ViewState": "AQIAAG4BAAAAAAAAAAAAwHkBAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-04T11:58:21.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmailRecepientController.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Controllers\\EmailRecepientController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\EmailRecepientController.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Controllers\\EmailRecepientController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\EmailRecepientController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowG8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:07:08.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240403113553_user_for_project.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Migrations\\20240403113553_user_for_project.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Migrations\\20240403113553_user_for_project.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Migrations\\20240403113553_user_for_project.cs",
+              "RelativeToolTip": "WebApplication6\\Migrations\\20240403113553_user_for_project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:35:53.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VersionP.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Models\\VersionP.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\VersionP.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Models\\VersionP.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\VersionP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T11:36:05.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240402111302_user.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Migrations\\20240402111302_user.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Migrations\\20240402111302_user.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Migrations\\20240402111302_user.cs",
+              "RelativeToolTip": "WebApplication6\\Migrations\\20240402111302_user.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:13:03.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Project.js",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\New folder\\Asseco\\my-app\\src\\Project.js",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\User\\Desktop\\New folder\\Asseco\\my-app\\src\\Project.js",
+              "ToolTip": "C:\\Users\\User\\Desktop\\New folder\\Asseco\\my-app\\src\\Project.js",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\User\\Desktop\\New folder\\Asseco\\my-app\\src\\Project.js",
+              "ViewState": "AQIAAAYBAAAAAAAAAAAAwBABAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-03T09:15:45.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Version.js",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asseco\\my-app\\src\\Version.js",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\User\\Desktop\\Asseco\\my-app\\src\\Version.js",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asseco\\my-app\\src\\Version.js",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\User\\Desktop\\Asseco\\my-app\\src\\Version.js",
+              "ViewState": "AQIAAHMBAAAAAAAAAAAAwIoBAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-03T10:16:50.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Version.js",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\New folder\\Asseco\\my-app\\src\\Version.js",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\User\\Desktop\\New folder\\Asseco\\my-app\\src\\Version.js",
+              "ToolTip": "C:\\Users\\User\\Desktop\\New folder\\Asseco\\my-app\\src\\Version.js",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\User\\Desktop\\New folder\\Asseco\\my-app\\src\\Version.js",
+              "ViewState": "AQIAAFUBAAAAAAAAAAAAwIYBAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-03T10:17:25.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240329101355_active.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Migrations\\20240329101355_active.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Migrations\\20240329101355_active.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Migrations\\20240329101355_active.cs",
+              "RelativeToolTip": "WebApplication6\\Migrations\\20240329101355_active.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T10:13:56.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240401072442_versionid.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Migrations\\20240401072442_versionid.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Migrations\\20240401072442_versionid.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Migrations\\20240401072442_versionid.cs",
+              "RelativeToolTip": "WebApplication6\\Migrations\\20240401072442_versionid.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T07:24:42.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20240402090952_init_laptop.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Migrations\\20240402090952_init_laptop.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Migrations\\20240402090952_init_laptop.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Migrations\\20240402090952_init_laptop.cs",
+              "RelativeToolTip": "WebApplication6\\Migrations\\20240402090952_init_laptop.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T09:09:52.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240401090733_version_datum.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Migrations\\20240401090733_version_datum.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Migrations\\20240401090733_version_datum.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Migrations\\20240401090733_version_datum.cs",
+              "RelativeToolTip": "WebApplication6\\Migrations\\20240401090733_version_datum.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:07:33.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240401082407_datetime.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Migrations\\20240401082407_datetime.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Migrations\\20240401082407_datetime.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Migrations\\20240401082407_datetime.cs",
+              "RelativeToolTip": "WebApplication6\\Migrations\\20240401082407_datetime.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T08:24:07.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240329131309_version_type.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Migrations\\20240329131309_version_type.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Migrations\\20240329131309_version_type.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Migrations\\20240329131309_version_type.cs",
+              "RelativeToolTip": "WebApplication6\\Migrations\\20240329131309_version_type.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T13:13:09.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240329132031_version_type2.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Migrations\\20240329132031_version_type2.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Migrations\\20240329132031_version_type2.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Migrations\\20240329132031_version_type2.cs",
+              "RelativeToolTip": "WebApplication6\\Migrations\\20240329132031_version_type2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T13:20:31.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240327114014_versionP.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Migrations\\20240327114014_versionP.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Migrations\\20240327114014_versionP.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Migrations\\20240327114014_versionP.cs",
+              "RelativeToolTip": "WebApplication6\\Migrations\\20240327114014_versionP.cs",
+              "ViewState": "AQIAAAcAAAAAMzMzMzMLwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T11:40:15.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WebApplication6.csproj",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\WebApplication6.csproj",
+              "RelativeDocumentMoniker": "WebApplication6\\WebApplication6.csproj",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\WebApplication6.csproj",
+              "RelativeToolTip": "WebApplication6\\WebApplication6.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-27T10:14:39.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240327102132_init.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Migrations\\20240327102132_init.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Migrations\\20240327102132_init.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Migrations\\20240327102132_init.cs",
+              "RelativeToolTip": "WebApplication6\\Migrations\\20240327102132_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:21:32.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240327102344_init2.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Migrations\\20240327102344_init2.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Migrations\\20240327102344_init2.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\public rep\\Payten_internship_project\\WebApplication\\WebApplication6\\Migrations\\20240327102344_init2.cs",
+              "RelativeToolTip": "WebApplication6\\Migrations\\20240327102344_init2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:23:44.368Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
